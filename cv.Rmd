@@ -1,6 +1,6 @@
 ---
-title: "Nick Strayer's CV"
-author: Nick Strayer
+title: "Ashley Cohen Conner's CV"
+author: Ashley Cohen Conner
 date: "`r Sys.Date()`"
 params:
   pdf_mode:
